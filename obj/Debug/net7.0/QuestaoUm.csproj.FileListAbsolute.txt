@@ -1,0 +1,8 @@
+C:\Users\gabri\Desktop\csharp\QuestaoUm\obj\Debug\net7.0\QuestaoUm.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\csharp\QuestaoUm\obj\Debug\net7.0\QuestaoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\csharp\QuestaoUm\obj\Debug\net7.0\QuestaoUm.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\csharp\QuestaoUm\obj\Debug\net7.0\QuestaoUm.AssemblyInfo.cs
+C:\Users\gabri\Desktop\csharp\QuestaoUm\obj\Debug\net7.0\QuestaoUm.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\csharp\QuestaoUm\obj\Debug\net7.0\QuestaoUm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\Desktop\csharp\QuestaoUm\obj\Debug\net7.0\QuestaoUm.RazorAssemblyInfo.cache
+C:\Users\gabri\Desktop\csharp\QuestaoUm\obj\Debug\net7.0\QuestaoUm.RazorAssemblyInfo.cs
